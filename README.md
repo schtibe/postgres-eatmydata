@@ -1,5 +1,7 @@
 # postgres-eatmydata
 
+**UNMAINTAINED, DEPRECATED, PROBABLY CRAP**
+
 **Postgres docker build that runs with eatmydata.**
 
 This docker image extends the official postgres image (https://hub.docker.com/_/postgres/)
